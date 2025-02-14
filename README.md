@@ -1,6 +1,6 @@
-![vedio](https://github.com/Ambigapathi-V/Cognifyz-Hotel-ratings-prediction/blob/main/img/project.jpg)
+![vedio](https://github.com/Ambigapathi-V/Credit-Card-Fraud-Detection/blob/main/img/credit-card-fraud-detection.jpg)
 
-# Credit Risk Fraud Detection
+# Credit Card Fraud Detection
 A machine learning project to identify fraudulent credit card transactions using advanced techniques to handle class imbalance and optimize model performance. Built with Python and libraries like Scikit-Learn, XGBoost, and Streamlit.
 
 ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/Ambigapathi-V/Credit-Card-Fraud-Detection?include_prereleases)
@@ -27,9 +27,6 @@ This project tackles the challenge of detecting fraudulent transactions in a hig
 [App Link](https://credit-card-fraud-detections.streamlit.app/)
 
 
-## APP UI
-
-![App Screenshot](https://github.com/Ambigapathi-V/Cognifyz-Hotel-ratings-prediction/blob/main/img/hotel_page-0001.jpg)
 
 # Installation and Setup
 
@@ -142,9 +139,8 @@ Here are some visualizations from the Exploratory Data Analysis (EDA):
 - **Correlation Matrix of Features**
 - **Transaction Amount Distribution**
 
-![Distribution of Fraud and Non-Fraud Transactions](https://github.com/Ambigapathi-V/Credit-Card-Fraud-Detection/blob/main/img/fraud_distribution.png)
-![Correlation Matrix](https://github.com/Ambigapathi-V/Credit-Card-Fraud-Detection/blob/main/img/correlation_matrix.png)
-![Transaction Amount Distribution](https://github.com/Ambigapathi-V/Credit-Card-Fraud-Detection/blob/main/img/transaction_amount.png)
+![Distribution of Fraud and Non-Fraud Transactions](https://github.com/Ambigapathi-V/Credit-Card-Fraud-Detection/blob/main/img/Pie.png)
+![Transaction Amount Distribution](https://github.com/Ambigapathi-V/Credit-Card-Fraud-Detection/blob/main/img/Distribution.png)
 
 ### **Preprocessing Code**
 
