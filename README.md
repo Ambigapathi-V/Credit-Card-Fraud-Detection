@@ -183,9 +183,9 @@ The project is organized in a clear and modular structure, making it easy to nav
 
 The models were evaluated using the following metrics:
 
-- **Accuracy**: 97.12%
-- **Precision**: 98.56%
-- **Recall**: 95.43%
+- **Accuracy**: 99.95%
+- **Precision**: 92.75%
+- **Recall**: 73.56%
 - **F1-Score**: 96.97%
 - **AUC-ROC**: 0.98
 
